@@ -5,7 +5,8 @@
 **Predicting if bank customers will leave using machine learning models**  
 Achieved ~86% accuracy with boosting algorithms!
 
-Overview
+# Overview
+
 This project focuses on predicting customer churn for a bank using machine learning techniques. Customer churn refers to customers leaving the bank (e.g., closing accounts). The goal is to identify at-risk customers based on historical data, enabling proactive retention strategies.
 The project uses a dataset of 10,000 customer records and implements several classification models, including boosting algorithms (AdaBoost, Gradient Boosting, LightGBM) and other classifiers (KNN, SVC). Data preprocessing, model training, evaluation, and comparison are performed in a Jupyter Notebook.
 Key objectives:
